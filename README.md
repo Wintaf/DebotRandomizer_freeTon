@@ -1,4 +1,4 @@
-# FreeTON Examples
+# How to run project
 
 ```
   npm i
